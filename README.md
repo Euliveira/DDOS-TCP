@@ -1,2 +1,2 @@
 # DDOS-TCP
-# Apenas fins didticos
+# Apenas fins didáticos
